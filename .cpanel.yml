@@ -1,5 +1,6 @@
 ---
 deployment:
-  tasks:
-    - export DEPLOYPATH=/home/luxuryin/vxcomic.emejulucodes.dev
-    - /bin/cp -r * $DEPLOYPATH
+      tasks:
+        - export DEPLOYPATH=/home/luxuryin/vxcomic.emejulucodes.dev
+        - /bin cp * $DEPLOYPATH
+        - /bin/cp -r * $DEPLOYPATH
