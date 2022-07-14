@@ -1,0 +1,59 @@
+#junexii{
+    background-color: #cc2d7d;
+    border-radius: 10px;
+    height: 70px;
+    width: 320px;
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+}
+#junexii:hover{
+    background-color: #cc2d7d;
+    border-radius: 10px;
+    height: 70px;
+    width: 320px;
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+}
+#junexii:active{
+    background-color: #cc2d7d;
+    border-radius: 10px;
+    height: 70px;
+    width: 320px;
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+}
+#junexii:focus{
+    background-color: #cc2d7d;
+    border-radius: 10px;
+    height: 70px;
+    width: 320px;
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+}
+#sign{
+    position: relative;
+    background-color: #cc2d7d;
+    border-radius: 50px;
+    height: 50px;
+    width: 120px;
+    color: rgb(255, 255, 255);
+    font-size: large;
+    outline: none;
+    border: none;
+}
+#sign:hover{
+    background-color: #cc2d7d;
+    border-radius: 50px;
+    height: 50px;
+    width: 120px;
+    color: rgb(255, 255, 255);
+    font-size: large;
+    outline: none;
+    border: none;
+}
+#login{
+    background-color: transparent;
+    font-size: large;
+    outline: none;
+    border: none;
+}
