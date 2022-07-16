@@ -2295,7 +2295,7 @@ https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
     attach: function(context) {
       if (!$('#comics-carousel-jumper').length) {
         $('#quicktabs-comic_carousel_landing_2016 ul').append(
-          '<li id="comics-carousel-jumper"><a href="/comics?all=1#browse">See All</a><li>'
+          '<li id="comics-carousel-jumper"><a href="/comics?all=1#browse">See All ></a><li>'
         );
       }
     }
@@ -2305,7 +2305,7 @@ https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
     attach: function(context) {
       if (!$('#collectibles-carousel-jumper').length) {
         $('#quicktabs-collectibles_landing_carousel ul').append(
-          '<li id="collectibles-carousel-jumper"><a href="/collectibles?all=1#browse">See All</a><li>'
+          '<li id="collectibles-carousel-jumper" style="color: white;"><a href="/collectibles?all=1#browse">See All ></a><li>'
         );
       }
     }
