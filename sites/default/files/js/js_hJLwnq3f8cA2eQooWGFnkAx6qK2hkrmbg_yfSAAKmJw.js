@@ -2141,8 +2141,7 @@ https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
             $(
               '#block-system-main-menu--2, #block-menu-menu-footer-dc'
             ).remove();
-            $('#block-menu-menu-dc-menu--2 > .block-inner > .content').prepend(all_sites);
-            $('#block-menu-menu-dc-menu--2 > .block-inner > .content').append(dc_ent);
+           
             // Modify search button
             $('.mobile-search #edit-submit').attr('value', 'Go');
           });
